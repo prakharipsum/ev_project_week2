@@ -40,12 +40,14 @@ Developed a basic rule-based EV chatbot to interact with users and answer querie
 The chatbot responds to keywords like battery, range, model, and performance, creating an interactive interface for demonstration.
 
 🌱 Improvements Over Week 1
+
 Area	Week 1	Week 2 Improvement
 Focus	Data cleaning, preprocessing, and visualization	Model building and interaction
 Outcome	Cleaned and structured EV dataset	Trained XGBoost model + EV chatbot
 Files	ev_analysis.ipynb, ev_cleaned_data.csv	Week2_EV_Model.ipynb, xgboost_model.pkl
 Functionality	Static analysis	Predictive and interactive system
 User Interaction	Data exploration only	Chatbot-based conversational interface
+
 🧠 Key Learnings
 
 Gained hands-on experience with XGBoost regression for predictive modeling.
